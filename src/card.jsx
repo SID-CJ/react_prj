@@ -5,7 +5,7 @@
         <div className="card">
             <img src={cheetah} alt="cheetaa"></img>
             <h2>Rahul</h2>
-            <p>likes boys</p>
+            <p>xxxxxxxxxxxx</p>
         </div>
     );
  }
